@@ -1,6 +1,4 @@
-# mocha
+# Mocha Test Spec
 
-Mocha Test Spec
-
-app.js
-test/app-spec.js
+> app.js
+> test/app-spec.js
